@@ -1,0 +1,51 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 89.1875 83.971909" width="100%" height="100%">
+<title>Cyangenmod&apos;s Cid</title>
+<defs></defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Cyangenmod&apos;s Cid</dc:title>
+<cc:license rdf:resource="http://www.apache.org/licenses/LICENSE-2.0"/>
+<dc:date>2014-01-28</dc:date>
+<dc:source>http://upload.wikimedia.org/wikipedia/commons/5/56/CyanogenMod_Cid.svg</dc:source>
+<dc:relation>Original</dc:relation>
+<dc:language>English</dc:language>
+<dc:description>Cyangenmod&apos;s Cid mascot, introduced in April 2012 to replace the previous mascot Andy</dc:description>
+<dc:creator>
+<cc:Agent>
+<dc:title>CyanogenMod Team</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:contributor>
+<cc:Agent>
+<dc:title>CyanogenMod Team, shgysk8zer0@gmail.com</dc:title>
+</cc:Agent>
+</dc:contributor>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>CyanogenMod</rdf:li>
+<rdf:li>Android</rdf:li>
+<rdf:li>Cid</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:publisher>
+<cc:Agent>
+<dc:title>http://commons.wikimedia.org/wiki/Main_Page</dc:title>
+</cc:Agent>
+</dc:publisher>
+<dc:identifier>Cid</dc:identifier>
+<dc:rights>
+<cc:Agent>
+<dc:title>CyanogenMod</dc:title>
+</cc:Agent>
+</dc:rights>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-277.0351,-529.61457)">
+<path fill-rule="nonzero" fill="#6199b9" d="m290.56635,529.61467c-1.61,0-2.9375,1.32625-2.9375,2.9375v17.75c-6.93,3.14-10.59375,8.15875-10.59375,15.84375v17.46875,4.53125,4.96875c0,15.3075,14.50875,20.01375,40.5,20.4375v0.0312h1.625c0.81375,0.007,1.63375,0,2.46875,0s1.655,0.007,2.46875,0h0.125c26.9375-0.26625,42-4.86625,42-20.46875v-4.96875-4.53125-17.46875c0-7.07875-3.1275-11.8925-9.03125-15.0625v-18.53125c0-1.61125-1.295-2.9375-2.90625-2.9375-1.61,0-2.90625,1.32625-2.90625,2.9375v16.1875c-7.38-2.2325-17.39375-3.0625-29.75-3.0625-1.39125,0-2.73,0.009-4.0625,0.0312h-0.0312c-9.66625,0.1575-17.72875,0.89625-24.0625,2.5625v-15.71875c0-1.61125-1.295-2.9375-2.90625-2.9375zm-2.875,43.90625,24.9375,4.8125c0.15625,1.33,0.11125,2.70875-0.15625,4.09375-1.39375,7.22875-8.365,11.95625-15.59375,10.5625-7.23125-1.39375-11.9875-8.365-10.59375-15.59375,0.2675-1.385,0.7675-2.69875,1.40625-3.875zm67.875,0c0.63875,1.17625,1.13875,2.49,1.40625,3.875,1.39375,7.22875-3.3625,14.2-10.59375,15.59375-7.22875,1.39375-14.2-3.33375-15.59375-10.5625-0.2675-1.385-0.3125-2.76375-0.15625-4.09375l24.9375-4.8125zm-39.0625,24.71875,10.25,0c0.005,0.0775,0.0312,0.13995,0.0312,0.21875,0,2.07125-1.67875,3.75-3.75,3.75h-2.8125c-2.07,0-3.75-1.67875-3.75-3.75,0-0.0788,0.0263-0.14125,0.0312-0.21875z"/>
+</g>
+</svg>
