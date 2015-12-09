@@ -1,1 +1,12 @@
-<svg id="svg-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300"><title>SVG Logo</title><g stroke-width="38.0086" stroke="#000"><g id="svgstar" transform="translate(150, 150)"><path id="svgbar" fill="#ffb13b" d="M-84.1487,-15.8513 a22.4171,22.4171 0 1 0 0,31.7026 h168.2974 a22.4171,22.4171 0 1 0 0,-31.7026 Z"/><use xlink:href="#svgbar" transform="rotate(45)"/><use xlink:href="#svgbar" transform="rotate(90)"/><use xlink:href="#svgbar" transform="rotate(135)"/></g></g><use xlink:href="#svgstar"/></svg>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 282.84045 282.84045" height="282.84" width="282.84" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>SVG Logo</title>
+<g stroke-width="38.009" stroke="#000" transform="translate(-8.5798 -8.5798)">
+<g id="svgstar" transform="translate(150,150)">
+<path id="svgbar" fill="#ffb13b" d="m-84.149-15.851a22.417 22.417 0 1 0 0 31.703h168.3a22.417 22.417 0 1 0 0 -31.703z"/>
+<use xlink:href="#svgbar" transform="rotate(45)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#svgbar" transform="rotate(90)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#svgbar" transform="rotate(135)" height="100%" width="100%" y="0" x="0"/>
+</g>
+</g>
+<use xlink:href="#svgstar" transform="translate(-8.5798 -8.5798)" height="100%" width="100%" y="0" x="0"/>
+</svg>
