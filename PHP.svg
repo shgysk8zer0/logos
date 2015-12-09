@@ -1,22 +1,13 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="159" width="300" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 160" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<metadata>
-<rdf:RDF>
-<cc:Work rdf:about="">
-<dc:format>image/svg+xml</dc:format>
-<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-<dc:title/>
-</cc:Work>
-</rdf:RDF>
-</metadata>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="156.52" width="295.64" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 295.64062 157.5" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <defs>
-<radialGradient id="radialGradient3870" gradientUnits="userSpaceOnUse" cy="-48.545" cx="77.914" gradientTransform="matrix(1.5089497,0,0,1.3582164,-39.028917,76.957747)" r="146">
+<radialGradient id="radialGradient3870" gradientUnits="userSpaceOnUse" cy="-48.545" cx="77.914" gradientTransform="matrix(1.5089 0 0 1.3582 -41.222 75.708)" r="146">
 <stop stop-color="#dddce9" offset="0"/>
-<stop stop-color="#5664a3" offset="0.37"/>
-<stop stop-color="#000" offset="1"/>
+<stop stop-color="#5664a3" offset=".37"/>
+<stop offset="1"/>
 </radialGradient>
 </defs>
-<ellipse rx="146" ry="76" stroke="url(#radialGradient3870)" cy="80" cx="150" stroke-width="5.5" fill="#6c7eb7"/>
-<path id="p" stroke-linejoin="round" d="m45,125,16-81,37,0c16,1,24,9,24,23,0,24-19,38-36,37h-18l-4,21h-19zm27-36,5-30,13,0c7,0,12,3,12,9-1,17-9,20-18,21h-12z" fill-rule="evenodd" stroke="#FFF" stroke-width="2"/>
-<path stroke-linejoin="round" d="m116,104,16-81,19,0-4,21,18,0c16,1,22,9,20,19l-7,41h-20l7-37c1-5,1-8-6-8h-15l-9,45h-19z" stroke="#FFF" stroke-width="2"/>
-<use xlink:href="#p" transform="translate(134,0)"/>
+<ellipse rx="146" ry="76" stroke="url(#radialGradient3870)" cy="78.75" cx="147.81" stroke-width="5.5" fill="#6c7eb7"/>
+<path id="p" stroke-linejoin="round" d="m42.807 123.75 16-81h37c16 1 24 9 24 23 0 24-19 38-36 37h-18l-4 21h-19zm27-36 5-30h13c7 0 12 3 12 9-1 17-9 20-18 21h-12z" fill-rule="evenodd" stroke="#fff" stroke-width="2"/>
+<path stroke-linejoin="round" d="m113.81 102.75 16-81h19l-4 21h18c16 1 22 9 20 19l-7 41h-20l7-37c1-5 1-8-6-8h-15l-9 45h-19z" stroke="#fff" stroke-width="2"/>
+<use xlink:href="#p" transform="translate(134)" height="100%" width="100%" y="0" x="0"/>
 </svg>
