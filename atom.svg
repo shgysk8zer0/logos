@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+<defs>
+<linearGradient id="a">
+<stop stop-color="#fcfefd" offset="0"/>
+<stop stop-color="#cee7dd" offset="1"/>
+</linearGradient>
+<linearGradient id="d" y2="375.05" gradientUnits="userSpaceOnUse" x2="1208.1" gradientTransform="translate(1005.4 -222.19)" y1="-315.87" x1="632.42">
+<stop stop-color="#fafafa" offset="0"/>
+<stop stop-color="#b7b7b7" offset="1"/>
+</linearGradient>
+<linearGradient id="c" y2="375.05" gradientUnits="userSpaceOnUse" x2="1208.1" gradientTransform="matrix(.90966 0 0 .90966 1089.9 -220.62)" y1="-315.87" x1="632.42">
+<stop stop-color="#a8da93" offset="0"/>
+<stop stop-color="#0da473" offset="1"/>
+</linearGradient>
+<linearGradient id="b" y2="124.65" xlink:href="#a" gradientUnits="userSpaceOnUse" x2="133.17" y1="-.13595" x1="-4.1254"/>
+</defs>
+<g transform="matrix(.11091 0 0 .11091 -165.22 72.725)">
+<circle opacity="0.96" stroke-linejoin="round" stroke-width="1.5" stroke="#a3a3a3" cy="-204.89" cx="1940.4" r="450.06" fill="url(#d)"/>
+<circle stroke-linejoin="round" stroke-width="1.5" stroke="#a3a3a3" cy="-204.89" cx="1940.4" r="409.41" fill="url(#c)"/>
+<g transform="matrix(4.3567 0 0 4.3059 1654.6 -463.71)" stroke="url(#b)" stroke-linecap="round" stroke-width="5" fill="none">
+<path d="m103.97 29.437c2.11-10.752 0.93-18.913-4.064-22.156-1.664-1.081-3.66-1.554-5.906-1.4687-12.129 0.4604-31.698 17.16-47.688 41.782-18.95 29.18-25.684 58.426-15.031 65.346 5.0569 3.284 13.115 0.95604 22.219-5.5312"/>
+<path d="m113.69 77.156c8.9944-3.4892 14.525-8.265 14.812-13.75 0.6648-12.685-26.941-24.429-61.688-26.25-3.2575-0.17072-6.4606-0.26054-9.5938-0.25-30.287 0.10193-53.929 8.4103-54.531 19.906-0.28689 5.4742 4.7005 10.782 13.25 15.188"/>
+<path d="m57 10.531c-6.154-5.1059-11.925-7.8478-16.562-7.5-1.235 0.0926-2.377 0.3969-3.438 0.9375-11.318 5.7669-7.702 35.592 8.094 66.594s37.776 51.454 49.094 45.688c10.884-5.5459 7.9467-33.338-6.3438-63.031"/>
+</g>
+<path d="m1974.9-201.05a32.676 32.294 0 0 1 -65.351 0 32.676 32.294 0 1 1 65.351 0z" fill="#e3f2ec"/>
+</g>
+</svg>
