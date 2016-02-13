@@ -1,12 +1,1 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 282.84045 282.84045" height="282.84" width="282.84" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<title>SVG Logo</title>
-<g stroke-width="38.009" stroke="#000" transform="translate(-8.5798 -8.5798)">
-<g id="svgstar" transform="translate(150,150)">
-<path id="svgbar" fill="#ffb13b" d="m-84.149-15.851a22.417 22.417 0 1 0 0 31.703h168.3a22.417 22.417 0 1 0 0 -31.703z"/>
-<use xlink:href="#svgbar" transform="rotate(45)" height="100%" width="100%" y="0" x="0"/>
-<use xlink:href="#svgbar" transform="rotate(90)" height="100%" width="100%" y="0" x="0"/>
-<use xlink:href="#svgbar" transform="rotate(135)" height="100%" width="100%" y="0" x="0"/>
-</g>
-</g>
-<use xlink:href="#svgstar" transform="translate(-8.5798 -8.5798)" height="100%" width="100%" y="0" x="0"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 282.84045 282.84045" height="282.84" width="282.84" xmlns:xlink="http://www.w3.org/1999/xlink"><title>SVG Logo</title><g stroke-width="38.009" stroke="#000"><g id="b" transform="translate(141.42 141.42)"><path id="a" fill="#ffb13b" d="M-84.15-15.85a22.417 22.417 0 1 0 0 31.702h168.3a22.417 22.417 0 1 0 0-31.703z"/><use xlink:href="#a" transform="rotate(45)" height="100%" width="100%"/><use xlink:href="#a" transform="rotate(90)" height="100%" width="100%"/><use xlink:href="#a" transform="rotate(135)" height="100%" width="100%"/></g></g><use xlink:href="#b" transform="translate(-8.58 -8.58)" height="100%" width="100%"/></svg>
