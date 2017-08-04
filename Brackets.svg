@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><linearGradient id="a" y2="113" gradientUnits="userSpaceOnUse" y1="3" gradientTransform="translate(-4 -3)" x2="64" x1="64"><stop stop-color="#29ABE2" offset="0"/><stop stop-color="#28A9E1" offset=".476"/><stop stop-color="#23A2DC" offset=".664"/><stop stop-color="#1A96D4" offset=".801"/><stop stop-color="#0E85C9" offset=".913"/><stop stop-color="#0071BC" offset="1"/></linearGradient><path fill="url(#a)" d="M120 85.973C120 99.19 109.19 110 95.973 110H24.027C10.812 110 0 99.19 0 85.973V24.027C0 10.812 10.812 0 24.027 0h71.945C109.19 0 120 10.812 120 24.027v61.946z"/><path fill="#115a91" d="M95.973 110H24.027C10.812 110 0 99.19 0 85.973v10C0 109.19 10.812 120 24.027 120h71.945C109.19 120 120 109.19 120 95.973v-10C120 99.19 109.19 110 95.973 110z"/><path fill="#fff" d="M106 83.966C106 90.612 100.61 96 93.966 96H26.034C19.388 96 14 90.612 14 83.966V26.034C14 19.388 19.388 14 26.034 14h67.932C100.61 14 106 19.388 106 26.034v57.932z"/><path fill="#4d4d4d" d="M55 24v14H38v32h17v15H23V24h32zM95 24v61H63V70h18V38H63V24h32z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+    <linearGradient id="a" y2="113" gradientUnits="userSpaceOnUse" y1="3" gradientTransform="translate(-4 -3)" x2="64" x1="64">
+        <stop stop-color="#29ABE2" offset="0"/>
+        <stop stop-color="#28A9E1" offset=".476"/>
+        <stop stop-color="#23A2DC" offset=".664"/>
+        <stop stop-color="#1A96D4" offset=".801"/>
+        <stop stop-color="#0E85C9" offset=".913"/>
+        <stop stop-color="#0071BC" offset="1"/>
+    </linearGradient>
+    <path fill="url(#a)" d="M120 85.973C120 99.19 109.19 110 95.973 110H24.027C10.812 110 0 99.19 0 85.973V24.027C0 10.812 10.812 0 24.027 0h71.945C109.19 0 120 10.812 120 24.027v61.946z"/>
+    <path fill="#115a91" d="M95.973 110H24.027C10.812 110 0 99.19 0 85.973v10C0 109.19 10.812 120 24.027 120h71.945C109.19 120 120 109.19 120 95.973v-10C120 99.19 109.19 110 95.973 110z"/>
+    <path fill="#fff" d="M106 83.966C106 90.612 100.61 96 93.966 96H26.034C19.388 96 14 90.612 14 83.966V26.034C14 19.388 19.388 14 26.034 14h67.932C100.61 14 106 19.388 106 26.034v57.932z"/>
+    <path fill="#4d4d4d" d="M55 24v14H38v32h17v15H23V24h32zm40 0v61H63V70h18V38H63V24h32z"/>
+</svg>

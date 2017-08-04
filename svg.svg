@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 282.84045 282.84045" height="282.84" width="282.84" xmlns:xlink="http://www.w3.org/1999/xlink"><title>SVG Logo</title><g stroke-width="38.009" stroke="#000"><g id="b" transform="translate(141.42 141.42)"><path id="a" fill="#ffb13b" d="M-84.15-15.85a22.417 22.417 0 1 0 0 31.702h168.3a22.417 22.417 0 1 0 0-31.703z"/><use xlink:href="#a" transform="rotate(45)" height="100%" width="100%"/><use xlink:href="#a" transform="rotate(90)" height="100%" width="100%"/><use xlink:href="#a" transform="rotate(135)" height="100%" width="100%"/></g></g><use xlink:href="#b" transform="translate(-8.58 -8.58)" height="100%" width="100%"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 282.84045 282.84045" height="282.84" width="282.84" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>
+        SVG Logo
+    </title>
+    <g stroke-width="38.009" stroke="#000">
+        <g id="b" transform="translate(141.42 141.42)">
+            <path id="a" fill="#ffb13b" d="M-84.15-15.85a22.417 22.417 0 1 0 0 31.702h168.3a22.417 22.417 0 1 0 0-31.703z"/>
+            <use xlink:href="#a" transform="rotate(45)" height="100%" width="100%"/>
+            <use xlink:href="#a" transform="rotate(90)" height="100%" width="100%"/>
+            <use xlink:href="#a" transform="rotate(135)" height="100%" width="100%"/>
+        </g>
+    </g>
+    <use xlink:href="#b" transform="translate(-8.58 -8.58)" height="100%" width="100%"/>
+</svg>
