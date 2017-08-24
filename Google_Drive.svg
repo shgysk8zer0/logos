@@ -1,10 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 133156 115341" image-rendering="optimizeQuality" text-rendering="geometricPrecision" shape-rendering="geometricPrecision">
-    <defs>
-        <style>
-            .fil2{fill:#11a861}.fil0{fill:#3777e3}.fil1{fill:#ffcf63}
-        </style>
-    </defs>
-    <path class="fil0" d="M22194 115340l22191-38446h88775l-22200 38446z"/>
-    <path class="fil1" d="M88772 76894h44388L88772 0H44385z"/>
-    <path class="fil2" d="M0 76894l22194 38446 44384-76893L44385 0z"/>
+<svg version="1.1" viewBox="0 0 133156 115341" xmlns="http://www.w3.org/2000/svg">
+<path fill="#3777e3" d="M22194 115340l22191-38446h88775l-22200 38446z"/>
+<path fill="#ffcf63" d="M88772 76894h44388L88772 0H44385z"/>
+<path fill="#11a861" d="M0 76894l22194 38446 44384-76893L44385 0z"/>
 </svg>
