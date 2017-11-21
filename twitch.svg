@@ -1,3 +1,3 @@
-<svg version="1.1" viewBox="0 0 128 134" xmlns="http://www.w3.org/2000/svg">
-<path d="m9 0-9 23v94h32v17h18l17-17h26l35-35v-82zm107 76-20 20h-32l-17 17v-17h-27v-84h96zm-20-41v35h-12v-35zm-32 0v35h-12v-35z" clip-rule="evenodd" rill-rule="evenodd"/>
+<svg viewBox="0 0 128 134" xmlns="http://www.w3.org/2000/svg">
+    <path d="M9 0L0 23v94h32v17h18l17-17h26l35-35V0zm107 76L96 96H64l-17 17V96H20V12h96zM96 35v35H84V35zm-32 0v35H52V35z" clip-rule="evenodd"/>
 </svg>
