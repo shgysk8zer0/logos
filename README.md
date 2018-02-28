@@ -1,6 +1,7 @@
 # logos
 A collection of SVG logos
 - - -
+[![Build Status](https://travis-ci.org/shgysk8zer0/logos.svg?branch=master)](https://travis-ci.org/shgysk8zer0/logos)
 [![GitHub release](https://img.shields.io/github/release/shgysk8zer0/logos.svg)](https://github.com/shgysk8zer0/logos/releases)
 [![GitHub issues](https://img.shields.io/github/issues/shgysk8zer0/logos.svg)](https://github.com/shgysk8zer0/logos/issues)
 [![GitHub license](https://img.shields.io/github/license/shgysk8zer0/logos.svg)](https://github.com/shgysk8zer0/logos/blob/master/LICENSE)

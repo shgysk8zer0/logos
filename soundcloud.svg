@@ -1,4 +1,4 @@
-<svg width="256" height="145" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="145" preserveAspectRatio="xMidYMid" viewBox="0 0 256 145">
     <defs>
         <linearGradient x1="49.719%" y1="-27.701%" x2="49.719%" y2="100.084%" id="a">
             <stop stop-color="#F6871F" offset="0%"/>
