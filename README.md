@@ -13,6 +13,8 @@ A collection of SVG logos
 [![Twitter Follow](https://img.shields.io/twitter/follow/shgysk8zer0.svg?style=social&logo=twitter&label=Follow)](https://twitter.com/shgysk8zer0)
 
 ![](./svg.svg)
+- [Code of Conduct](./docs/CODE_OF_CONDUCT.md)
+- [Contributing](./docs/CONTRIBUTING.md)
 
 Many of these were found on [WikiMedia](https://commons.wikimedia.org/) or [SVGPorn](https://svgporn.com)
 and all over the Internet. Others, I have made myself.
@@ -24,3 +26,7 @@ before using any of these.
 To my knowledge, these are all either in the Public Domain or usable with certain
 restrictions in usage and alterations. Again, please check the media usage terms
 before making any alterations.
+
+## Donations
+- [<img src="./paypal.svg" height="32" /> shgysk8zer0](https://paypal.me/shgysk8zer0)
+- [<img src="./bitcoin.svg" height="32" /> 12vKBex5iQhz3Kvoi2GU8yKY4t9BKSTHT1](bitcoin:12vKBex5iQhz3Kvoi2GU8yKY4t9BKSTHT1)
