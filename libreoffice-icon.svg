@@ -45,10 +45,10 @@
         <linearGradient id="p" x1="-17" xlink:href="#b" gradientUnits="userSpaceOnUse" y1="-1194.6" gradientTransform="matrix(.52172 0 0 1 -674.13 121.99)" x2="144" y2="-1194.6"/>
     </defs>
     <g color="#000">
-        <path style="text-transform:none;text-indent:0" fill="url(#d)" d="M111 977.12v14.502c0 .524.226.75.75.75h11.5c.524 0 .75-.226.75-.75v-8.98a1.013 1.013 0 0 0-.28-.72l-5.272-5.27a1.012 1.012 0 0 0-.718-.282h-5.98c-.52 0-.752.436-.75.75z" transform="matrix(6.1537 0 0 6.15154 -683.065 -6006.208)"/>
-        <path style="text-transform:none;text-indent:0" fill="url(#e)" d="M120.33 976.38c-.333.107-.445.613-.188.852l3.012 3.03c.278.264.832.037.847-.348v-3.03a.523.523 0 0 0-.5-.504h-3.013a.516.516 0 0 0-.157 0z" transform="matrix(6.1537 0 0 6.15154 -683.065 -6006.208)"/>
+        <path fill="url(#d)" d="M111 977.12v14.502c0 .524.226.75.75.75h11.5c.524 0 .75-.226.75-.75v-8.98a1.013 1.013 0 0 0-.28-.72l-5.272-5.27a1.012 1.012 0 0 0-.718-.282h-5.98c-.52 0-.752.436-.75.75z" transform="matrix(6.1537 0 0 6.15154 -683.065 -6006.208)"/>
+        <path fill="url(#e)" d="M120.33 976.38c-.333.107-.445.613-.188.852l3.012 3.03c.278.264.832.037.847-.348v-3.03a.523.523 0 0 0-.5-.504h-3.013a.516.516 0 0 0-.157 0z" transform="matrix(6.1537 0 0 6.15154 -683.065 -6006.208)"/>
     </g>
-    <path style="text-transform:none;text-indent:0" fill="url(#f)" d="M-45-1160.6v116h91.998v-72.875l-.625-.625-41.75-42-.5-.5H-45z" color="#000" transform="translate(39.228 897.414) scale(.76924)"/>
+    <path fill="url(#f)" d="M-45-1160.6v116h91.998v-72.875l-.625-.625-41.75-42-.5-.5H-45z" color="#000" transform="translate(39.228 897.414) scale(.76924)"/>
     <path fill="url(#g)" d="M-41-1156.6H1.234l41.764 42v66H-41v-108z" transform="translate(39.228 897.414) scale(.76924)"/>
     <g color="#000">
         <path opacity=".25" d="M-618.3-1183.5l23.662 23.662-.707.707-23.662-23.663z" fill="url(#h)" transform="translate(533.08 915.883) scale(.76924)"/>
