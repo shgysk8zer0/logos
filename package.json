@@ -1,0 +1,28 @@
+{
+  "name": "logos",
+  "version": "1.0.0",
+  "description": "A collection of SVG logos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shgysk8zer0/logos.git"
+  },
+  "keywords": [
+    "svg",
+    "logo",
+    "icon",
+    "vector"
+  ],
+  "author": {
+    "name": "Chris Zuber",
+    "email": "chris@chriszuber.com",
+    "url": "https://chriszuber.com"
+  },
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/shgysk8zer0/logos/issues"
+  },
+  "homepage": "https://github.com/shgysk8zer0/logos#readme",
+  "devDependencies": {
+    "svgo": "^1.0.5"
+  }
+}
