@@ -35,13 +35,6 @@ const INVALID = 1;
  */
 const INVALID_ATTRS = [
 	'style',
-	'color',
-	'enable-background',
-	'font-weight',
-	'font-family',
-	'font-size',
-	'shape-rendering',
-	'color-rendering',
 	['http://www.inkscape.org/namespaces/inkscape', 'version'],
 ];
 
