@@ -1,5 +1,5 @@
 # logos
-A collection of logos in SVG
+A collection of SVG logos
 - - -
 [![GitHub release](https://img.shields.io/github/release/shgysk8zer0/logos.svg)](https://github.com/shgysk8zer0/logos/releases)
 [![GitHub issues](https://img.shields.io/github/issues/shgysk8zer0/logos.svg)](https://github.com/shgysk8zer0/logos/issues)
@@ -14,12 +14,13 @@ A collection of logos in SVG
 
 ![](./svg.svg)
 
-Many of these were found on [WikiMedia](https://commons.wikimedia.org/) and all
-over the Internet. Others, I have made myself.
+Many of these were found on [WikiMedia](https://commons.wikimedia.org/) or [SVGPorn](https://svgporn.com)
+and all over the Internet. Others, I have made myself.
 
 These were collected or created for my own personal use. Please verify the licensing
 of any logo you wish to use from the owner/organization/group of whatever kind
 before using any of these.
 
 To my knowledge, these are all either in the Public Domain or usable with certain
-restrictions in usage and alterations.
+restrictions in usage and alterations. Again, please check the media usage terms
+before making any alterations.
