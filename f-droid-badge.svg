@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 564 168">
+  <defs>
+    <path id="reuse-0" fill="#fff" fill-opacity=".298" d="M2.611 1005.6c-.453.012-.761.189-.98.449 2.026 2.409 2.368 2.791 5.135 6.221 1.02 1.319 2.082.637 1.062-.682l-4.25-5.5a1.239 1.239 0 0 0-.967-.488z" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path id="reuse-1" fill="#263238" fill-opacity=".2" d="M1.622 1006.1a1.25 1.25 0 0 0-.022 1.556l4.25 5.5c1.02 1.32 1.15-.612 1.15-.612s-3.735-4.51-5.378-6.444z" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path id="reuse-2" fill="#8ab000" d="M2.338 1005.8c-.438 0-.96.142-.824.799.103.501 4.66 6.074 4.66 6.074 1.02 1.319 2.494.676 1.474-.643l-4.234-5.472c-.26-.29-.609-.744-1.076-.758z" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+  </defs>
+  <defs>
+    <radialGradient id="a" cx="113" cy="-12.89" r="59.662" gradientTransform="matrix(0 1.9611 -1.9778 0 254.51 78.763)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".098"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g color="#000" transform="translate(-330 -353.36)">
+    <rect width="560" height="164" x="332" y="355.36" stroke="#a6a6a6" stroke-width="4" rx="20" ry="20"/>
+    <text xml:space="preserve" x="508.951" y="402.367" fill="#fff" font-family="'DejaVu Sans'" letter-spacing="0" style="line-height:0%" word-spacing="0"><tspan x="508.951" y="402.367" font-size="34.125" style="line-height:1">GET IT ON</tspan></text>
+    <text xml:space="preserve" x="508.213" y="489.361" fill="#fff" font-family="Rokkitt" font-weight="bold" letter-spacing="0" style="line-height:0%" word-spacing="0"><tspan x="508.213" y="489.361" font-family="'Roboto Slab'" font-size="95" style="line-height:100%">F-Droid</tspan></text>
+  </g>
+  <g fill-rule="evenodd">
+    <path fill="#8ab000" stroke="#769616" stroke-linecap="round" stroke-width="6.579000000000001" d="M146.344 25.898 135.16 40.372"/>
+    <g color="#000">
+      <use xlink:href="#reuse-0" fill-opacity=".298" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal" transform="matrix(-2.6316 0 0 2.6316 153.157 -2623.86)"/>
+      <use xlink:href="#reuse-1" fill-opacity=".2" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal" transform="matrix(-2.6316 0 0 2.6316 153.157 -2623.86)"/>
+      <use xlink:href="#reuse-2" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal" transform="matrix(-2.6316 0 0 2.6316 153.157 -2623.86)"/>
+    </g>
+  </g>
+  <g fill-rule="evenodd">
+    <path fill="#8ab000" stroke="#769616" stroke-linecap="round" stroke-width="6.579000000000001" d="m33.653 25.898 11.184 14.474"/>
+    <g color="#000">
+      <use xlink:href="#reuse-0" fill-opacity=".298" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal" transform="translate(26.84 -2623.86) scale(2.6316)"/>
+      <use xlink:href="#reuse-1" fill-opacity=".2" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal" transform="translate(26.84 -2623.86) scale(2.6316)"/>
+      <use xlink:href="#reuse-2" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal" transform="translate(26.84 -2623.86) scale(2.6316)"/>
+    </g>
+  </g>
+  <g transform="translate(137.367 -2623.86) scale(2.6316)">
+    <rect width="38" height="12.92" x="-37" y="1010.4" fill="#aeea00" rx="3" ry="3"/>
+    <rect width="38" height="10" x="-37" y="1013.3" fill="#263238" fill-opacity=".2" rx="3" ry="3"/>
+    <rect width="38" height="10" x="-37" y="1010.4" fill="#fff" fill-opacity=".298" rx="3" ry="3"/>
+    <rect width="38" height="10.641" x="-37" y="1011.5" fill="#aeea00" rx="3" ry="2.456"/>
+  </g>
+  <g transform="translate(26.84 -2624.13) scale(2.6316)">
+    <rect width="38" height="25.84" x="5" y="1024.5" fill="#1976d2" rx="3" ry="3"/>
+    <rect width="38" height="13" x="5" y="1037.4" fill="#263238" fill-opacity=".2" rx="3" ry="3"/>
+    <rect width="38" height="13" x="5" y="1024.4" fill="#fff" fill-opacity=".2" rx="3" ry="3"/>
+    <rect width="38" height="23.56" x="5" y="1025.7" fill="#1976d2" rx="3" ry="2.719"/>
+  </g>
+  <g transform="translate(26.84 43.003) scale(2.6316)">
+    <path fill="#0d47a1" d="M24 17.75c-2.88 0-5.32 1.985-6.033 4.65h3.213A3.215 3.215 0 0 1 24 20.75 3.228 3.228 0 0 1 27.25 24 3.228 3.228 0 0 1 24 27.25a3.219 3.219 0 0 1-2.93-1.85h-3.154c.642 2.766 3.132 4.85 6.084 4.85 3.434 0 6.25-2.816 6.25-6.25s-2.816-6.25-6.25-6.25z" color="#000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <circle cx="24" cy="24" r="9.55" fill="none" stroke="#0d47a1" stroke-linecap="round" stroke-width="1.9"/>
+  </g>
+  <g transform="translate(26.84 -2622.544) scale(2.6316)">
+    <ellipse cx="14.375" cy="1016.5" fill="#263238" fill-opacity=".2" rx="3.375" ry="3.875"/>
+    <circle cx="14.375" cy="1017" r="3.375" fill="#fff"/>
+  </g>
+  <g transform="translate(78.156 -2622.544) scale(2.6316)">
+    <ellipse cx="14.375" cy="1016.5" fill="#263238" fill-opacity=".2" rx="3.375" ry="3.875"/>
+    <circle cx="14.375" cy="1017" r="3.375" fill="#fff"/>
+  </g>
+  <path fill="url(#a)" fill-rule="evenodd" d="M282.71 299.83a3.29 3.29 0 0 0-2.662 5.336l9.474 12.262a7.894 7.894 0 0 0-.527 2.824v18.211a7.877 7.877 0 0 0 7.895 7.895h84.21a7.877 7.877 0 0 0 7.895-7.895v-18.21c0-1-.19-1.95-.525-2.827l9.472-12.26a3.29 3.29 0 0 0-2.433-5.334 3.29 3.29 0 0 0-2.772 1.31l-9.013 11.666a7.91 7.91 0 0 0-2.623-.45H296.89c-.922 0-1.8.163-2.621.45l-9.016-11.666a3.29 3.29 0 0 0-2.543-1.312zm14.18 49.527a7.877 7.877 0 0 0-7.894 7.894v52.211a7.877 7.877 0 0 0 7.894 7.895h84.211a7.877 7.877 0 0 0 7.894-7.895v-52.21a7.877 7.877 0 0 0-7.894-7.895z" color="#000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal" transform="translate(-249 -277.36)"/>
+</svg>
