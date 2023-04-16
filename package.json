@@ -26,6 +26,6 @@
     "test": "php svglint.php"
   },
   "devDependencies": {
-    "svgo": "^1.0.5"
+    "svgo": "^3.0.2"
   }
 }
